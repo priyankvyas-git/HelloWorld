@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git_project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\git_project\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\git_project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\git_project\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git_project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\git_project\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\git_project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\git_project\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\EIDEV64\\.nuget\\packages\\",
-        "outputPath": "C:\\git_project\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\git_project\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EIDEV64\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
