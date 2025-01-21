@@ -1,4 +1,4 @@
 ﻿using System;
 
-Console.WriteLine("Hello user, how are you?");
+Console.WriteLine("Hello user, welcome to GitHub !!");
 
